@@ -8,4 +8,6 @@ this time in the right directory < fail again
 
 this time loged out pxyferz < fail again
 
-try again with pxyfers
+try again with pxyfers < fail again
+
+this time set config global username ang email to pxyfers
