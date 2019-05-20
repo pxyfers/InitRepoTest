@@ -4,4 +4,6 @@ why pxyferz
 
 pull by pxyfers now <-failed wrong directory to open bash
 
-this time in the right directory
+this time in the right directory < fail again
+
+this time loged out pxyferz
