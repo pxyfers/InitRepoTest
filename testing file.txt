@@ -11,3 +11,5 @@ this time loged out pxyferz < fail again
 try again with pxyfers < fail again
 
 this time set config global username ang email to pxyfers
+
+yes i got it now horray!
