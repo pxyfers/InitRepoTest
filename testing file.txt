@@ -6,4 +6,6 @@ pull by pxyfers now <-failed wrong directory to open bash
 
 this time in the right directory < fail again
 
-this time loged out pxyferz
+this time loged out pxyferz < fail again
+
+try again with pxyfers
